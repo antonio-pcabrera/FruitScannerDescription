@@ -3,6 +3,9 @@
 ## 📌 Descripción
 **Fruit Scanner** es un sistema innovador que permite identificar frutas a partir de imágenes capturadas en tiempo real. Utiliza técnicas avanzadas de visión artificial y aprendizaje automático para proporcionar información detallada sobre cada fruta, incluyendo su nombre, características nutricionales y precio. 🍍🍊🥭
 
+## Tablero Kanban
+https://github.com/AlejandroLog/FruitScannerDescription/projects?query=is%3Aopen
+
 ### 🔥 Características Principales
 ✅ **Captura y procesamiento de imágenes**: Uso de **OpenCV** y **TensorFlow** para mejorar la detección de frutas. 📷  
 ✅ **Reconocimiento de frutas**: Clasificación de **piña, papaya, naranja y plátano** mediante un modelo de **Machine Learning (KNN)**. 🧠  
